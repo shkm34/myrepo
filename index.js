@@ -3,5 +3,6 @@ function myFunction() {
   console.log("dusre baar");
   console.log("tisre baar");
   console.log("ek baar aur");
+  console.log("footer note: This is a sample footer note.");
 }
 myFunction();
